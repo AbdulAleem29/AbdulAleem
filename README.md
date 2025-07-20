@@ -1,6 +1,6 @@
 👋 Hi, I'm Abdul Aleem
 
-🎯 Currently: Working as an MIS Executive  
+🎯 Currently: Working as Senior MIS Executive
 📊 Transitioning to: Data Scientist | AI/ML Engineer  
 📚 Learning Journey: Completed Data Science certifications and hands-on projects  
 🌐 Portfolio: Leveraging my analytical background to build impactful, AI-driven solutions  
