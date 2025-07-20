@@ -1,41 +1,19 @@
-<h1 align="center">Hi, I'm Abdul Aleem 👋</h1>
+👋 Hi, I'm Abdul Aleem
 
-🎯 **Current Role:** MIS Executive  
-🚀 **Aspiring:** Data Scientist / AI-Machine Learning Engineer  
-🎓 **Skills Gained:** Data Analysis, Machine Learning, AI, Dashboarding  
-📈 **Vision:** To solve real-world problems using data-driven, intelligent solutions.
+🎯 Currently: Working as an MIS Executive  
+📊 Transitioning to: Data Scientist | AI/ML Engineer  
+📚 Learning Journey: Completed Data Science certifications and hands-on projects  
+🌐 Portfolio: Leveraging my analytical background to build impactful, AI-driven solutions  
 
----
+🧠 My Tech Stack:
+- Data Tools & BI: Power BI, SQL, Excel, Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Cloud & Platforms: AWS (S3, EC2, IAM), Microsoft Office Suite
+- Tools: Jupyter, VS Code, Linux, Excel (Advanced), Google Colab
+- ML/AI Stack: Scikit-learn, Tensorflow/Pytorch, Langchain, Vector Databases, Huggingface, SpaCy
 
-### 💼 Tools & Technologies
-- **Languages:** Python, SQL, R
-- **ML & AI:** Scikit-learn, TensorFlow, Keras, XGBoost
-- **Data Analysis:** Pandas, NumPy, Power BI, Excel
-- **Visualization:** Matplotlib, Seaborn, Power BI
-- **Tools:** Jupyter, Google Colab, GitHub, VS Code
+💡 Career Objective
+A results-driven analyst transitioning into Data Science and AI, combining strong reporting expertise with machine learning and AI to solve real-world business challenges.
 
----
-
-### 📊 Featured Projects
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [Churn Prediction](#) | Predicted customer churn using logistic regression and RandomForest. | Python, Sklearn |
-| [Power BI Dashboard](#) | Built interactive dashboards for sales & KPIs. | Power BI |
-| [Netflix EDA](#) | Explored trends & patterns in Netflix dataset. | Python, Pandas |
-| [Loan Risk Prediction](#) | Classified loan applicants as safe or risky. | Python, ML |
-
----
-
-### 🧭 Career Objective
-An MIS professional transitioning into Data Science and AI, aiming to use analytical expertise and machine learning to deliver real-world business impact.
-
----
-
-### 📫 Connect With Me
-- 📧 Email: youremail@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
----
-
-<p align="center">📌 Thanks for visiting my profile!</p>
+📫 Let's Connect:
+- 📧 Email: abdulaleemjuly29@gmail.com
+- 👨‍💻 GitHub: AbdulAleem29
